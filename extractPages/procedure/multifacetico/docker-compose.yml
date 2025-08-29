@@ -1,0 +1,9 @@
+services:
+  pdf-extractor:
+    image: python:3.9-slim
+    container_name: pdf-extractor-multi
+    volumes:
+      - ./data:/data
+    working_dir: /data
+    command: >
+      bash -c "pip install pdfplumber && python extract_tables.py"
