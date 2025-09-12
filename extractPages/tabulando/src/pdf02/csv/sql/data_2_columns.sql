@@ -1,0 +1,5 @@
+insert into Columns_pag_22 values('M2205','Ø M5')
+insert into Columns_pag_22 values('M2206','Ø M6')
+insert into Columns_pag_22 values('M2208','Ø M8')
+insert into Columns_pag_22 values('M2210','Ø M10')
+insert into Columns_pag_22 values('E2212','Ø M12')
