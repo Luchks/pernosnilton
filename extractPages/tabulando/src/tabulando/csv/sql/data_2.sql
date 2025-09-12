@@ -1,0 +1,5 @@
+insert into Productos_pag_22 values('PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO','M2205','Ø M5')
+insert into Productos_pag_22 values('PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO','M2206','Ø M6')
+insert into Productos_pag_22 values('PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO','M2208','Ø M8')
+insert into Productos_pag_22 values('PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO','M2210','Ø M10')
+insert into Productos_pag_22 values('PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO','E2212','Ø M12')
