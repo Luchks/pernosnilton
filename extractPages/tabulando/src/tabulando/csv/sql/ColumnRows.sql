@@ -1,0 +1,29 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[ColumnRows_pag_22](
+	[ColumnRowID] [int] IDENTITY(1,1) NOT NULL,
+	[ColumnID] [int] NOT NULL,
+	[RowID] [int] NOT NULL,
+	[Valor01] [nvarchar](100) NULL,
+	[Valor02] [nvarchar](100) NULL
+) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[ColumnRows_pag_22] ADD PRIMARY KEY CLUSTERED 
+(
+	[ColumnRowID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, SORT_IN_TEMPDB = OFF, IGNORE_DUP_KEY = OFF, ONLINE = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[ColumnRows_pag_22]  WITH CHECK ADD FOREIGN KEY([RowID])
+REFERENCES [dbo].[Rows_pag_22] ([RowID])
+GO
+ALTER TABLE [dbo].[ColumnRows_pag_22]  WITH CHECK ADD FOREIGN KEY([RowID])
+REFERENCES [dbo].[Rows_pag_22] ([RowID])
+GO
+ALTER TABLE [dbo].[ColumnRows_pag_22]  WITH CHECK ADD FOREIGN KEY([ColumnID])
+REFERENCES [dbo].[Columns_pag_22] ([ColumnID])
+GO
+ALTER TABLE [dbo].[ColumnRows_pag_22]  WITH CHECK ADD FOREIGN KEY([ColumnID])
+REFERENCES [dbo].[Columns_pag_22] ([ColumnID])
+GO

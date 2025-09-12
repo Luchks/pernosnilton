@@ -5,27 +5,26 @@ import tabulando.csv.*;
 public class Procesando {
     public static void main(String[] args) {
 
-        List<Head> listHead = new ArrayList<Head>();
-        listHead.add(new Head("1","PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO","M2205","Ø M5"));
-        listHead.add(new Head("2","PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO","M2206","Ø M6"));
-        listHead.add(new Head("3","PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO","M2208","Ø M8"));
-        listHead.add(new Head("4","PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO","M2210","Ø M10"));
-        listHead.add(new Head("5","PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO","E2212","Ø M12"));
-
+        List<Column> listColum = new ArrayList<Column>();
+        listColum.add(new Column("1","M2205","Ø M5"));
+        listColum.add(new Column("2","M2206","Ø M6"));
+        listColum.add(new Column("3","M2208","Ø M8"));
+        listColum.add(new Column("4","M2210","Ø M10"));
+        listColum.add(new Column("5","E2212","Ø M12"));
 
         List<Row> listRow = new ArrayList<Row>();
-        listRow.add(new Row("1","02","10"));
-        listRow.add(new Row("2","03","15"));
-        listRow.add(new Row("3","04","20"));
-        listRow.add(new Row("4","05","25"));
-        listRow.add(new Row("5","06","30"));
-        listRow.add(new Row("6","07","35"));
-        listRow.add(new Row("7","08","40"));
-        listRow.add(new Row("8","10","50"));
-        listRow.add(new Row("9","12","60"));
-        listRow.add(new Row("10","14","70"));
-        listRow.add(new Row("11","16","80"));
-        listRow.add(new Row("12","20","100"));
+        listRow.add(new Row("1","02","10"  ,"PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO"));
+        listRow.add(new Row("2","03","15"  ,"PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO"));
+        listRow.add(new Row("3","04","20"  ,"PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO"));
+        listRow.add(new Row("4","05","25"  ,"PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO"));
+        listRow.add(new Row("5","06","30"  ,"PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO"));
+        listRow.add(new Row("6","07","35"  ,"PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO"));
+        listRow.add(new Row("7","08","40"  ,"PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO"));
+        listRow.add(new Row("8","10","50"  ,"PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO"));
+        listRow.add(new Row("9","12","60"  ,"PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO"));
+        listRow.add(new Row("10","14","70" ,"PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO"));
+        listRow.add(new Row("11","16","80" ,"PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO"));
+        listRow.add(new Row("12","20","100","PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO"));
 
 
         String[][] listBody = {
@@ -59,9 +58,9 @@ public class Procesando {
             {"","","6.5 CTO","","0.8 CTO"}
 
         };
-        for(int i = 0; i < listHead.size(); i++ ){
+        for(int i = 0; i < listColum.size(); i++ ){
             for(int j = 0; j < listRow.size(); j++){
-            	System.out.print(listHead.get(i).getId_head());
+            	System.out.print(listColum.get(i).getId_head());
             	System.out.print(",");
             	System.out.print(listRow.get(j).getId_row());
             	System.out.print(",");
