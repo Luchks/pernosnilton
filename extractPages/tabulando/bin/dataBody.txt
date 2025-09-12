@@ -1,0 +1,13 @@
+        List<Body> listBody = new ArrayList<Body>();
+        listBody.add(new Body("$1.89","$2.27","","",""));
+        listBody.add(new Body("$2.45","$2.68","$5.48","",""));
+        listBody.add(new Body("$2.66","$3.04","$5.99","",""));
+        listBody.add(new Body("$3.25","$3.52","$7.17","",""));
+        listBody.add(new Body("$3.88","$3.94","$8.00","$12.72","$68.05"));
+        listBody.add(new Body("$4.27","$4.35","$8.41","$14.40",""));
+        listBody.add(new Body("$4.83","$4.87","$9.19","$16.05","$77.36"));
+        listBody.add(new Body("$5.62","$5.62","$10.79","$17.65","$89.60"));
+        listBody.add(new Body("","$6.56","$12.24","$20.07","$103.82"));
+        listBody.add(new Body("","","$14.36","","$118.60"));
+        listBody.add(new Body("","","$16.31","","$133.80"));
+        listBody.add(new Body("","","$19.23","","$156.23"));

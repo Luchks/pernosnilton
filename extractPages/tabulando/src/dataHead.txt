@@ -1,0 +1,6 @@
+        List<Head> listHead = new ArrayList<Head>();
+        listHead.add(new Head("PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO","M2205","Ø M5"   ));
+        listHead.add(new Head( "PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO","M2206","Ø M6"  ));
+        listHead.add(new Head( "PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO","M2208","Ø M8"  ));
+        listHead.add(new Head( "PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO","M2210","Ø M10" ));
+        listHead.add(new Head( "PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO","E2212","Ø M12" ));
