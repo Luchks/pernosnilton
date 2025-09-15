@@ -1,0 +1,173 @@
+fila 1: TUERCA HEXAGONAL MÉTRICA RF - CL. 10 PAVONADA |  |  |  |  |  |  |  |  |  |  |  | pdf073_page_054_table_03.csv
+fila 2: PERNO SOCKET PULGADA CAB. CILÍNDRICA UNC - GR. 8 |  |  |  |  |  |  | pdf104_page_080_table_02.csv
+fila 3: PERNO SOCKET PULGADA CAB. AVELLANADA UNC - GR. 8 |  |  |  |  |  |  |  |  | pdf107_page_083_table_01.csv
+fila 4: PERNO HEXAGONAL MÉTRICO RC - CL. 10.9 PAVONADO |  |  |  |  |  |  |  | pdf068_page_049_table_02.csv
+fila 5: TUERCAS MÉTRICAS RF |  |  |  |  | pdf079_page_060_table_01.csv
+fila 6: PERNO ZAPATA MÁSTER PULGADA UNF |  |  |  |  |  | pdf123_page_100_table_02.csv
+fila 7: AUTORROSCANTE CAB. PAN |  |  |  |  |  |  |  | pdf092_page_070_table_02.csv
+fila 8: TUERCA ESTRUCTURAL PAVONADA - ASTM 194 2H |  |  |  |  |  |  | pdf119_page_091_table_02.csv
+fila 9: ARANDELA PRESIÓN PULGADA |  |  |  |  |  |  |  | pdf084_page_065_table_02.csv
+fila 10: PERNO HEXAGONAL PULGADA UNC - GR. 2 CINCADO |  |  |  |  |  |  |  |  | pdf051_page_032_table_01.csv
+fila 11: TUERCA MARIPOSA |  |  |  |  |  | pdf081_page_062_table_01.csv
+fila 12: BARRA ROSCADA PULGADA UNC 3.66 m - AC. INOX 304 |  |  |  |  |  |  |  |  |  |  | pdf024_page_008_table_03.csv
+fila 13: PERNO HEXAGONAL MÉTRICO RC - AC. INOX 316 |  |  |  |  |  |  |  |  |  |  | pdf044_page_028_table_02.csv
+fila 14: PERNO DE EXPANSIÓN PULGADA - AC. INOX 304 |  |  |  |  |  |  | pdf041_page_025_table_01.csv
+fila 15: TIRAFÓN HEXAGONAL PARA MADERA - ZINCADO |  |  |  |  |  |  | pdf091_page_069_table_01.csv
+fila 16: BARRA ROSCADA MÉTRICA UNC 1.00 - AC. INOX 304 |  |  |  |  |  |  |  |  | pdf025_page_009_table_01.csv
+fila 17: BARRA ROSCADA PULGADA UNC 1.00 m - AC. INOX 316 |  |  |  |  |  |  |  |  |  | pdf046_page_030_table_02.csv
+fila 18: PERNO HEXAGONAL PULGADA UNC - GR. 2 PAVONADO |  |  |  |  |  |  |  | pdf054_page_035_table_02.csv
+fila 19: PERNO CAB. COCHE PAVONADO |  |  |  |  | pdf090_page_068_table_02.csv
+fila 20: PERNO HEXAGONAL PULGADA UNC - AC. INOX 316 |  |  |  |  |  |  |  |  |  |  | pdf043_page_027_table_01.csv
+fila 21: TUERCA DE ACOPLE PULGADA UNC |  |  |  |  | pdf115_page_089_table_02.csv
+fila 22: PERNO HEXAGONAL MÉTRICO RC - AC. INOX 304 |  |  |  |  |  |  |  |  |  |  | pdf019_page_003_table_01.csv
+fila 23: TUERCA HEXAGONAL PULGADA UNC - GR. 2 CINCADO |  |  |  |  |  |  |  |  | pdf051_page_032_table_02.csv
+fila 24: PERNO SOCKET CAB. CILÍNDRICA PULGADA UNC - AC. INOX 316 |  |  |  |  |  |  |  |  | pdf047_page_031_table_01.csv
+fila 25: PERNO HEXAGONAL MÉTRICO RF - CL. 8.8 PAVONADO |  |  |  |  |  |  |  |  |  |  | pdf062_page_043_table_02.csv
+fila 26: TORNILLO CHIPBOARD - TROPICALIZADO |  |  |  |  |  |  |  | pdf095_page_073_table_01.csv
+fila 27: TORNILLO AUTORROSCANTE CAB. PAN PULGADA - AC. INOX 304 |  |  |  |  |  |  |  | pdf034_page_018_table_02.csv
+fila 28: TUERCA HEXAGONAL MÉTRICA RC - CL. 8 PAVONADA |  |  |  |  |  |  |  |  | pdf071_page_052_table_03.csv
+fila 29: ARANDELA PLANA MÉTRICA TROPICALIZADA |  |  |  |  |  |  | ARANDELA PRESIÓN MÉTRICA |  | pdf085_page_066_table_01.csv
+fila 30: TUERCAS CON SEGURO PULGADAS |  |  |  |  |  |  | pdf080_page_061_table_02.csv
+fila 31: TUERCA HEXAGONAL PULGADA UNC - GR. 2 CINCADO |  |  |  |  |  |  |  |  | pdf052_page_033_table_03.csv
+fila 32: PERNO HEXAGONAL MÉTRICO RC - AC. INOX 316 |  |  |  |  |  |  |  |  |  |  | pdf045_page_029_table_01.csv
+fila 33: TUERCA HEXAGONAL MÉTRICA RC PAVONADO |  |  |  |  |  |  | pdf059_page_040_table_02.csv
+fila 34: TUERCA ESTRUCTURAL PAVONADA - ASTM 194 2H |  |  |  |  |  |  | pdf120_page_092_table_03.csv
+fila 35:  |  | ARANDELA DE NEOPRENO PULGADA - AC. INOX 304 |  |  |  | pdf040_page_024_table_03.csv
+fila 36: TUERCA HEXAGONAL PULGADA UNC - GR. 2 PAVONADA |  |  |  |  |  |  | pdf056_page_037_table_03.csv
+fila 37: PERNO HEXAGONAL MÉTRICO RC - CL. 10.9 PAVONADO |  |  |  |  |  |  |  |  | pdf071_page_052_table_02.csv
+fila 38: TUERCA HEXAGONAL PULGADA UNC - GR. 2 PAVONADA |  |  |  |  |  |  |  | pdf053_page_034_table_02.csv
+fila 39: TUERCA HEXAGONAL PULGADA UNC - AC. INOX 316 |  |  |  |  |  |  |  |  |  |  | pdf042_page_026_table_03.csv
+fila 40: PERNO SOCKET CAB. AVELLANADA PULGADA UNC - AC. INOX 304 |  |  |  |  |  |  | pdf028_page_012_table_02.csv
+fila 41: PERNO HEXAGONAL MÉTRICO RC - CL. 8.8 PAVONADO |  |  |  |  |  |  | pdf058_page_039_table_02.csv
+fila 42: STOVE BOLT MÉTRICO CAB. CILÍNDRICA |  |  |  |  |  | pdf094_page_072_table_02.csv
+fila 43: PERNO SOCKET MÉTRICO CAB. CILÍNDRICA RC - CL. 12.9 |  |  |  |  |  |  | pdf106_page_082_table_02.csv
+fila 44: FIJACIONES PARA CALAMINA |  |  |  | pdf116_page_090_table_02.csv
+fila 45: CANALETA 100% PVC - DINAPLAST |  |  |  |  |  | pdf129_page_099_table_02.csv
+fila 46: TUERCA HEXAGONAL MÉTRICA RF PAVONADO |  |  |  |  |  |  |  |  |  |  | pdf062_page_043_table_03.csv
+fila 47: TORNILLO AUTOPERFORANTE CAB. HEX. SIN ARANDELA |  |  |  |  |  | pdf098_page_076_table_03.csv
+fila 48: TUERCA HEXAGONAL MÉTRICA RC - AC. INOX 304 |  |  |  |  |  |  |  |  |  |  | pdf019_page_003_table_02.csv
+fila 49: AUTORROSCANTE CAB. FLAT PHILLIPS |  |  |  |  |  |  |  | pdf093_page_071_table_01.csv
+fila 50: TUERCA HEXAGONAL MÉTRICA RC - AC. INOX 304 |  |  |  |  |  |  |  |  | pdf025_page_009_table_02.csv
+fila 51: PERNO HEXAGONAL PULGADA UNC - AC. INOX 304 |  |  |  |  |  |  |  |  |  |  | pdf017_page_001_table_01.csv
+fila 52: PERNO DE EXPANSIÓN |  |  |  |  |  |  |  | pdf113_page_087_table_01.csv
+fila 53: PERNO HEXAGONAL PULGADA UNF - GR. 8 PAVONADO |  |  |  |  |  |  |  |  |  |  | pdf072_page_053_table_03.csv
+fila 54: STOVE BOLT CAB. PAN PULGADA - AC. INOX 304 |  |  |  |  |  |  | pdf036_page_020_table_02.csv
+fila 55: TUERCA HEXAGONAL PULGADA UNC - AC. INOX 304 |  |  |  |  | ARANDELA PULGADA - AC. INOX 304 |  |  |  |  | pdf022_page_006_table_02.csv
+fila 56: ARANDELA DE NEOPRENO PULGADA |  |  |  | pdf099_page_077_table_01.csv
+fila 57: TUERCA HEXAGONAL MÉTRICA RF - CL. 8 PAVONADA |  |  |  | pdf075_page_056_table_02.csv
+fila 58: CABLE THW-90 (7 HILOS) - ROLLO DE 100 M. |  |  |  |  |  | pdf127_page_097_table_02.csv
+fila 59: PRISIONERO ALLEN MÉTRICO RC - AC. INOX 304 |  |  |  |  |  |  |  | pdf030_page_014_table_03.csv
+fila 60: TUERCA HEXAGONAL PULGADA UNC - GR. 8 PAVONADA |  |  |  |  |  |  |  | pdf066_page_047_table_03.csv
+fila 61: PERNO HEXAGONAL MÉTRICO RC - CL. 10.9 PAVONADO |  |  |  |  |  |  |  |  | pdf070_page_051_table_02.csv
+fila 62: TORNILLO STOVE BOLT CAB. FLAT PULGADA - AC. INOX 304 |  |  |  |  |  | pdf037_page_021_table_01.csv
+fila 63: TUERCA HEXAGONAL FLANGE MÉTRICA RC - CL. 5.8 TROPICALIZADA |  |  |  |  |  |  |  |  |  |  | pdf076_page_057_table_03.csv
+fila 64: BARRA ROSCADA PULGADA UNC 1.00 m - AC. INOX 304 |  |  |  |  |  |  |  |  |  |  | pdf024_page_008_table_02.csv
+fila 65: TUERCA HEXAGONAL PULGADA UNC - GR. 2 PAVONADA |  |  |  |  |  |  |  | pdf054_page_035_table_03.csv
+fila 66: PERNO FLANGE MÉTRICO RC - CL. 5.8 TROPICALIZADO |  |  |  |  | pdf076_page_057_table_02.csv
+fila 67: PERNO SOCKET PULGADA CAB. BUTTON UNC - GR. 8 |  |  |  |  |  | pdf108_page_084_table_02.csv
+fila 68: TUERCAS Y ARANDELAS MÉTRICAS |  |  |  |  |  |  |  |  |  | pdf078_page_059_table_02.csv
+fila 69: CÓD. |  |  |  |  |  | pdf060_page_041_table_03.csv
+fila 70: PERNO HEXAGONAL MÉTRICO RC - AC. INOX 304 |  |  |  |  |  |  |  |  |  |  | pdf020_page_004_table_02.csv
+fila 71: PERNO ZAPATA PULGADA UNF |  |  |  |  |  | pdf123_page_100_table_01.csv
+fila 72: TAPA SUJETADORA PARA CALAMINA |  |  | pdf116_page_090_table_03.csv
+fila 73: BARRA ROSCADA MÉTRICA ZINCADA 1 M. |  |  |  |  |  |  |  |  | pdf085_page_066_table_02.csv
+fila 74: PERNO HEXAGONAL MÉTRICO RC - CL. 8.8 PAVONADO |  |  |  |  |  |  | pdf060_page_041_table_02.csv
+fila 75: PERNO HEXAGONAL MÉTRICO RC - CL. 8.8 PAVONADO |  |  |  |  |  |  | pdf061_page_042_table_01.csv
+fila 76: TUERCA HEXAGONAL PULGADAS |  |  |  |  |  |  |  |  |  |  |  | pdf077_page_058_table_01.csv
+fila 77: STOVE BOLT MÉTRICO CAB. FLAT PHILLIPS |  |  |  |  | pdf094_page_072_table_03.csv
+fila 78: TUERCA HEXAGONAL PULGADA UNC - GR. 2 PAVONADA |  |  |  |  |  |  | pdf055_page_036_table_02.csv
+fila 79: TUERCA HEXAGONAL PULGADA UNC - AC. INOX 304 |  |  |  |  |  |  |  |  |  |  | pdf018_page_002_table_03.csv
+fila 80: ARANDELA PLANA STANDARD |  |  |  |  |  |  |  |  |  |  | pdf082_page_063_table_02.csv
+fila 81: REMACHE CIEGO ALA ANCHA |  |  |  | pdf096_page_074_table_03.csv
+fila 82: PERNO HEXAGONAL PULGADA UNC - GR. 8 PAVONADO |  |  |  |  |  |  |  |  | pdf065_page_046_table_01.csv
+fila 83: TORNILLO AUTOPERFORANTE CAB. HEX. CON ARANDELA |  |  |  |  |  | pdf098_page_076_table_02.csv
+fila 84: TUERCA HEXAGONAL MÉTRICA RC - CL. 8 PAVONADA |  |  |  |  |  |  |  | pdf069_page_050_table_02.csv
+fila 85: TUERCA ESTRUCTURAL - ASTM A325 |  |  |  |  | pdf122_page_094_table_02.csv
+fila 86: PRISIONERO ALLEN PULGADA UNC - GR. 8 |  |  |  |  |  |  |  |  | pdf109_page_085_table_01.csv
+fila 87: TORNILLO CAB. WAFER ZINCADO |  |  |  | pdf100_page_078_table_03.csv
+fila 88: PERNO HEXAGONAL PULGADA UNC - GR. 2 PAVONADO |  |  |  |  |  |  | pdf055_page_036_table_01.csv
+fila 89: MANGUERA CORRUGADA |  |  |  |  |  | pdf129_page_099_table_03.csv
+fila 90: PERNO HEXAGONAL MÉTRICO RF - CL. 10.9 PAVONADO |  |  |  |  |  |  |  |  |  |  |  | pdf074_page_055_table_02.csv
+fila 91: CABLE TWF-80 GPT AUTOMOTRIZ - ROLLO DE 100 M. |  |  |  |  |  |  | pdf127_page_097_table_01.csv
+fila 92: TUERCA HEXAGONAL PULGADA UNC - GR. 8 PAVONADA |  |  |  |  |  |  |  |  |  |  | pdf072_page_053_table_04.csv
+fila 93: TUERCA HEXAGONAL PULGADA UNC - AC. INOX 316 |  |  |  |  |  |  |  |  |  | pdf046_page_030_table_03.csv
+fila 94: REMACHE CIEGO |  |  |  |  |  | pdf096_page_074_table_02.csv
+fila 95: TUERCA HEXAGONAL MÉTRICA RC - CL. 8 PAVONADA |  |  |  |  |  |  |  |  | pdf070_page_051_table_03.csv
+fila 96: ALAMBRE TW-90 AWG - ROLLO DE 100 M. |  |  |  |  |  |  | pdf128_page_098_table_03.csv
+fila 97: PERNO SOCKET CAB. CILÍNDRICA PULGADA UNC - AC. INOX 304 |  |  |  |  |  |  |  |  | pdf026_page_010_table_02.csv
+fila 98: TACOS DE EXPANSIÓN PULGADA - AC. INOX 304 |  |  |  |  | pdf041_page_025_table_02.csv
+fila 99: TORNILLO AUTORROSCANTE CAB. FLAT PULGADA - AC. INOX 304 |  |  |  |  |  |  |  | pdf035_page_019_table_01.csv
+fila 100: STOVE BOLT CAB. PAN MÉTRICO - AC. INOX 304 |  |  |  |  |  |  | pdf038_page_022_table_02.csv
+fila 101: PERNO HEXAGONAL PULGADA UNC - GR. 2 PAVONADO |  |  |  |  |  |  |  | pdf053_page_034_table_01.csv
+fila 102: TUERCA HEXAGONAL PULGADA UNC - GR. 8 PAVONADA |  |  |  |  |  |  |  | pdf067_page_048_table_03.csv
+fila 103: PERNO CAB. COCHE ZINCADO |  |  |  |  |  |  | pdf089_page_067_table_01.csv
+fila 104: PERNO HEXAGONAL PULGADA UNC - GR. 2 CINCADO |  |  |  |  |  |  |  |  | pdf052_page_033_table_02.csv
+fila 105: TUERCA CUADRADA DE ZAPATA PULGADA UNF |  |  |  | pdf123_page_100_table_03.csv
+fila 106: PERNO SOCKET BUTTON PULGADA UNC - AC. INOX 304 |  |  |  |  |  | pdf031_page_015_table_01.csv
+fila 107: PERNO SOCKET MÉTRICO RC - AC. INOX 304 |  |  |  |  |  |  |  |  |  |  | pdf027_page_011_table_01.csv
+fila 108: TUERCA CIEGA PULGADA UNC |  |  | pdf081_page_062_table_02.csv
+fila 109: TUERCA ESTRUCTURAL GALVANIZADO HDG - ASTM A325 |  |  |  |  |  |  | pdf121_page_093_table_02.csv
+fila 110: PERNO HEXAGONAL MÉTRICO RF - CL. 8.8 PAVONADO |  |  |  |  |  |  |  |  |  |  | pdf063_page_044_table_01.csv
+fila 111: TUERCA MÉTRICA PARA STOVE BOLT |  |  |  | pdf094_page_072_table_04.csv
+fila 112: PERNO SOCKET MÉTRICO CAB. AVELLANADA RC - CL. 10.9 |  |  |  |  |  |  | pdf107_page_083_table_02.csv
+fila 113: PERNO SOCKET MÉTRICO CAB. BUTTON RC - CL. 10.9 |  |  |  |  |  |  |  | pdf108_page_084_table_03.csv
+fila 114: PERNO HEXAGONAL MÉTRICO RC - CL. 8.8 PAVONADO |  |  |  |  |  |  | pdf059_page_040_table_01.csv
+fila 115: PERNO HEXAGONAL PULGADA UNC - GR. 8 PAVONADO |  |  |  |  |  |  |  | pdf066_page_047_table_02.csv
+fila 116: ARANDELA PLANA PESADA ALA CORTA |  |  |  |  |  |  |  |  |  |  | pdf083_page_064_table_02.csv
+fila 117: PERNO HEXAGONAL MÉTRICO RF - CL. 10.9 PAVONADO |  |  |  |  |  |  |  |  |  |  |  | pdf073_page_054_table_02.csv
+fila 118: TUERCA CUADRADA ALTA DE ZAPATA PULGADA UNF |  |  |  |  |  | pdf123_page_100_table_04.csv
+fila 119: PERNO SOCKET PULGADA CAB. CILÍNDRICA UNC - GR. 8 |  |  |  |  |  |  | pdf103_page_079_table_01.csv
+fila 120: TUERCA HEXAGONAL PULGADA ZINCADA - GR. 2 |  |  |  | pdf116_page_090_table_04.csv
+fila 121: TUERCA HEXAGONAL PULGADA UNC - GR. 8 PAVONADA |  |  |  |  |  |  |  |  | pdf064_page_045_table_04.csv
+fila 122: PRISIONERO ALLEN PULGADA UNC - AC. INOX 304 |  |  |  |  |  | pdf030_page_014_table_02.csv
+fila 123: PERNO CAB. COCHE PULGADA UNC - AC. INOX 304 |  |  |  |  |  |  | pdf032_page_016_table_02.csv
+fila 124: TUERCA P/STOVE BOLT UNC - AC. INOX 304 |  |  |  |  |  | pdf037_page_021_table_02.csv
+fila 125: PERNO ESTRUCTURAL GALVANIZADO HDG - ASTM A325 |  |  |  |  |  |  | pdf121_page_093_table_01.csv
+fila 126: TIRAFÓN HEXAGONAL PULGADA UNC - AC. INOX 304 |  |  |  |  |  |  | pdf033_page_017_table_01.csv
+fila 127: TUERCA HEXAGONAL MÉTRICA RF PAVONADO |  |  |  |  |  |  |  |  |  |  | pdf063_page_044_table_02.csv
+fila 128: CABLE FLEXIBLE NLT VULCANIZADO - ROLLO DE 100 M. |  |  |  |  |  |  | pdf129_page_099_table_01.csv
+fila 129: PERNO SOCKET BUTTON MÉTRICO RC - AC. INOX 304 |  |  |  |  |  |  |  |  | pdf031_page_015_table_02.csv
+fila 130: TUERCA HEXAGONAL MÉTRICA RC - CL. 5.8 TROPICALIZADO |  |  |  |  |  |  | pdf057_page_038_table_02.csv
+fila 131: TARUGO CONICO - NYLON |  |  |  |  | pdf097_page_075_table_02.csv
+fila 132: TORNILLO AUTOPERFORANTE CAB. HEXAGONAL PULGADA - AC. INOX 304 |  |  |  |  |  | pdf040_page_024_table_02.csv
+fila 133: REMACHE CIEGO PULGADA - AC. INOX 304 |  |  |  |  |  | pdf040_page_024_table_04.csv
+fila 134: TUERCA HEXAGONAL PULGADA UNC - AC. INOX 316 |  |  |  |  |  |  |  |  |  |  | pdf043_page_027_table_02.csv
+fila 135: PERNO SOCKET CAB. AVELLANADA MÉTRICO RC - AC. INOX 304 |  |  |  |  |  |  |  |  | pdf029_page_013_table_01.csv
+fila 136: TORNILLO DRYWALL TRONCO CONICO |  |  | pdf100_page_078_table_04.csv
+fila 137: TUERCA HEXAGONAL PULGADA UNC - GR. 8 PAVONADA |  |  |  |  |  |  |  |  | pdf065_page_046_table_02.csv
+fila 138: TORNILLO DRYWALL CORNETA |  |  |  |  | pdf100_page_078_table_02.csv
+fila 139: ARANDELA PLANA PESADA |  |  |  |  |  |  |  |  |  |  | pdf083_page_064_table_01.csv
+fila 140: PRISIONERO ALLEN MÉTRICO RC - CL. 14.9 |  |  |  |  |  |  |  | pdf110_page_086_table_02.csv
+fila 141: PERNO SOCKET MÉTRICO CAB. CILÍNDRICA RC - CL. 12.9 |  |  |  |  |  |  | pdf105_page_081_table_01.csv
+fila 142: PERNO HEXAGONAL MÉTRICO RC - CL. 10.9 PAVONADO |  |  |  |  |  |  |  | pdf069_page_050_table_01.csv
+fila 143: PERNO HEXAGONAL PULGADA UNC - GR. 8 PAVONADO |  |  |  |  |  |  |  | pdf067_page_048_table_02.csv
+fila 144: PERNO HEXAGONAL PULGADA UNC - GR. 2 PAVONADO |  |  |  |  |  |  | pdf056_page_037_table_02.csv
+fila 145: TUERCA HEXAGONAL MÉTRICO RC - AC. INOX 304 |  |  |  |  |  | ARANDELA MÉTRICA - AC. INOX 304 |  |  |  |  | pdf023_page_007_table_01.csv
+fila 146: TUERCA HEXAGONAL PULGADA UNC - AC. INOX 304 |  |  |  |  |  |  |  |  |  |  | pdf024_page_008_table_04.csv
+fila 147: TUERCA HEXAGONAL PULGADA UNC - AC. INOX 304 |  |  |  |  |  |  |  |  |  |  | pdf017_page_001_table_02.csv
+fila 148: TUERCA HEXAGONAL MÉTRICA RC PAVONADO |  |  |  |  |  |  | pdf061_page_042_table_02.csv
+fila 149: AUTORROSCANTE CAB. HEXAGONAL RANURADA |  |  |  |  | pdf099_page_077_table_02.csv
+fila 150: PERNO HEXAGONAL MÉTRICO RC - AC. INOX 304 |  |  |  |  | pdf021_page_005_table_01.csv
+fila 151: TARUGO PLÁSTICO |  |  |  |  | pdf097_page_075_table_01.csv
+fila 152: PERNO HEXAGONAL MÉTRICO RC - CL. 5.8 TROPICALIZADO |  |  |  |  |  |  | pdf057_page_038_table_01.csv
+fila 153: PERNO HEXAGONAL PULGADA UNC - AC. INOX 304 |  |  |  |  |  |  |  |  |  |  | pdf018_page_002_table_02.csv
+fila 154: TORNILLO STOVE BOLT CAB. FLAT MÉTRICO - AC. INOX 304 |  |  |  |  |  |  |  | pdf039_page_023_table_01.csv
+fila 155: TUERCA HEXAGONAL MÉTRICA RC - AC. INOX 316 |  |  |  |  |  |  |  |  |  |  | pdf045_page_029_table_02.csv
+fila 156: CABLE MELLIZO TFM-70 - ROLLO DE 100 M. |  |  |  |  |  |  | pdf128_page_098_table_04.csv
+fila 157: TUERCA HEXAGONAL MÉTRICA RC - AC. INOX 304 |  |  |  |  | pdf021_page_005_table_02.csv
+fila 158: TUERCA HEXAGONAL MÉTRICA RC - CL. 8 PAVONADA |  |  |  |  |  |  |  | pdf068_page_049_table_03.csv
+fila 159: CABLE MM2 THW-90 (7 HILOS) - ROLLO DE 100 M. |  |  |  |  | pdf128_page_098_table_02.csv
+fila 160: PERNO HEXAGONAL PULGADA UNC - AC. INOX 316 |  |  |  |  |  |  |  |  |  |  | pdf042_page_026_table_02.csv
+fila 161: PERNO HEX. MÉT. RC - CL. 10.9 PAVONADO HEX. 14 MM. |  |  |  | pdf075_page_056_table_01.csv
+fila 162: ARANDELA PLANA - ASTM A325 |  |  |  |  |  |  |  |  |  | pdf123_page_095_table_01.csv
+fila 163: TORNILLO DRYWALL TRONCO CONICO |  |  |  | pdf100_page_078_table_05.csv
+fila 164: BARRA ROSCADA ESTRUCTURAL UNC - ASTM 193 B7 |  |  |  |  |  | pdf124_page_096_table_02.csv
+fila 165: TACO DE EXPANSIÓN ESTRIADO PULGADA UNC |  |  |  |  |  |  | pdf114_page_088_table_02.csv
+fila 166: TUERCA HEXAGONAL MÉTRICA RF - CL. 10 PAVONADA |  |  |  |  |  |  |  |  |  |  |  | pdf074_page_055_table_03.csv
+fila 167: TUERCA HEXAGONAL MÉTRICA RC - AC. INOX 316 |  |  |  |  |  |  |  |  |  |  | pdf044_page_028_table_03.csv
+fila 168: PERNO HEXAGONAL PULGADA UNC - GR. 8 PAVONADO |  |  |  |  |  |  |  |  | pdf064_page_045_table_03.csv
+fila 169: PERNO ESTRUCTURAL PAVONADO - ASTM A325 |  |  |  |  |  |  | pdf120_page_092_table_02.csv
+fila 170: BARRA ROSCADA PULGADA UNC ZINCADA |  |  |  |  | pdf115_page_089_table_01.csv
+fila 171: PERNO ESTRUCTURAL PAVONADO - ASTM A325 |  |  |  |  |  |  | pdf119_page_091_table_01.csv
+fila 172: TUERCA HEXAGONAL MÉTRICA RC PAVONADO |  |  |  |  |  |  | pdf058_page_039_table_03.csv
+fila 173: TUERCA HEXAGONAL MÉTRICA RC - AC. INOX 304 |  |  |  |  |  |  |  |  |  |  | pdf020_page_004_table_03.csv
